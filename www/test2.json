@@ -1,0 +1,109 @@
+[{
+  "name": "Precedent for joint-sales motion ",
+  "top": "",
+  "btm": "",
+  "topList": [""],
+  "btmList": [""],
+  "wtAbsolute": "394",
+  "wtRelative": "1",
+  "yesNum": "149",
+  "yesPct": "38%",
+  "yesFloat":"0.3781726",
+  "parent": "null",
+  "traits": "",
+  "children": [
+  {
+    "name": "Have a transformation or account plan opportunities ",
+    "top": "",
+    "btm": "",
+    "topList": [""],
+    "btmList": [""],
+    "wtAbsolute": "194",
+    "wtRelative": "0.4923858",
+    "yesNum": "111",
+    "yesPct": "57%",
+    "yesFloat":"0.5721649",
+    "parent": "Is.there.a.precedent.for.cross.Federation.collaboration.and.joint.sales.motions.in.the.account.",
+    "traits": {
+      "Precedent for joint-sales motion ": "yes"
+    },
+    "children": [
+    {
+      "name": "",
+      "top": "",
+      "btm": "",
+      "wtAbsolute": "112",
+      "wtRelative": "0.284264",
+      "yesNum": "77",
+      "yesPct": "69%",
+      "yesFloat":"0.6875",
+      "parent": "Have.we.completed.a.transformation.or.account.plan.to.identify.the.Transformation.opportunities.",
+      "traits": {
+        "Have a transformation or account plan opportunities ": "yes",
+        "Precedent for joint-sales motion ": "yes"
+      }
+    },
+    {
+      "name": "",
+      "top": "",
+      "btm": "",
+      "wtAbsolute": "82",
+      "wtRelative": "0.2081218",
+      "yesNum": "34",
+      "yesPct": "41%",
+      "yesFloat":"0.4146341",
+      "parent": "Have.we.completed.a.transformation.or.account.plan.to.identify.the.Transformation.opportunities.",
+      "traits": {
+        "Have a transformation or account plan opportunities ": "in progress",
+        "Precedent for joint-sales motion ": "yes"
+      }
+    }]
+  },
+  {
+    "name": "Misalignment concerns ",
+    "top": "",
+    "btm": "",
+    "topList": [""],
+    "btmList": [""],
+    "wtAbsolute": "200",
+    "wtRelative": "0.5076142",
+    "yesNum": "38",
+    "yesPct": "19%",
+    "yesFloat":"0.19",
+    "parent": "Is.there.a.precedent.for.cross.Federation.collaboration.and.joint.sales.motions.in.the.account.",
+    "traits": {
+      "Precedent for joint-sales motion ": "no / unknown"
+    },
+    "children": [
+    {
+      "name": "",
+      "top": "",
+      "btm": "",
+      "wtAbsolute": "82",
+      "wtRelative": "0.2081218",
+      "yesNum": "4",
+      "yesPct": "5%",
+      "yesFloat":"0.04878049",
+      "parent": "Does.anything.stand.out.as.something.which.will.lead.to.large.areas.of.misalignment.between.Federation.and.individual.account.team.objectives.",
+      "traits": {
+        "Misalignment concerns ": "yes",
+        "Precedent for joint-sales motion ": "no / unknown"
+      }
+    },
+    {
+      "name": "",
+      "top": "",
+      "btm": "",
+      "wtAbsolute": "118",
+      "wtRelative": "0.2994924",
+      "yesNum": "34",
+      "yesPct": "29%",
+      "yesFloat":"0.2881356",
+      "parent": "Does.anything.stand.out.as.something.which.will.lead.to.large.areas.of.misalignment.between.Federation.and.individual.account.team.objectives.",
+      "traits": {
+        "Misalignment concerns ": "no / unknown",
+        "Precedent for joint-sales motion ": "no / unknown"
+      }
+    }]
+  }]
+}, [" in ", " deals with the following traits advanced ", " out of all ", " deals advanced "]]

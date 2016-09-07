@@ -1,0 +1,65 @@
+.node circle {
+  /*fill: #fff;*/
+  stroke: #c7c7c7;
+  stroke-width: 2px;
+}
+
+.node text {
+    font: 15px sans-serif;
+}
+.link {
+  fill: none;
+  stroke: #ccc;
+}
+
+text {
+  font: 15px sans-serif;
+}
+.splitLab {
+  font-weight: bold;
+}
+.nodePct {
+  // fill: #d9d9d9;
+  fill: white;
+  font-weight: bold;
+  text-anchor: middle;
+}
+
+div {
+}
+.tooltip {
+  position: absolute;
+  text-align: left;
+  width: 200px;
+  height: auto;
+  padding: 10px;
+  font: 12px sans-serif;
+  background: white;
+  border-width: 5px;
+  border-style:solid;
+  border-color:lightsteelblue;
+  border-radius: 0px;
+  pointer-events: none;
+}
+
+ul {
+  margin-top: -10px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.tooltipheader {
+  font-size: 15px;
+  font-weight: bold;
+}
+.tooltipsubhead{
+  font-style: italic;
+}
+.tooltipsolo {
+  font-size: 18px;
+  font-weight: bold;
+}

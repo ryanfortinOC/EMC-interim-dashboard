@@ -1,0 +1,111 @@
+[{
+  "name": "Understanding of client alternatives",
+  "top": "",
+  "btm": "",
+  "topList": [""],
+  "btmList": [""],
+  "wtAbsolute": "576",
+  "wtRelative": "1",
+  "yesNum": "239",
+  "yesPct": "41%",
+  "yesFloat":"0.4149306",
+  "parent": "null",
+  "traits": "",
+  "children": [
+  {
+    "name": "How well pursuit strategy & solution meets needs ",
+    "top": "greater than 2.5",
+    "btm": "less than 2.5",
+    "topList": ["greater than 2.5"],
+    "btmList": ["less than 2.5"],
+    "wtAbsolute": "420",
+    "wtRelative": "0.7291667",
+    "yesNum": "239",
+    "yesPct": "57%",
+    "yesFloat":"0.5690476",
+    "parent": "How.well.do.we.understand.the.client.s.alternatives.to.Transformation.",
+    "traits": {
+      "Understanding of client alternatives": "some client discussion / discussed fully with client"
+    },
+    "children": [
+    {
+      "name": "Right Sponsor ",
+      "top": "",
+      "btm": "",
+      "topList": [""],
+      "btmList": [""],
+      "wtAbsolute": "350",
+      "wtRelative": "0.6076389",
+      "yesNum": "239",
+      "yesPct": "68%",
+      "yesFloat":"0.6828571",
+      "parent": "On.a.scale.of.1..low..to.5..high...how.well.does.our.pursuit.strategy.and.solution.address.the.needs.and.obstacles.of.the.client.",
+      "traits": {
+        "Understanding of client alternatives": "some client discussion/discussed fully with client",
+        "How well pursuit strategy & solution meets needs ": "Greater than 2.5"
+      },
+      "children": [
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "301",
+        "wtRelative": "0.5225694",
+        "yesNum": "226",
+        "yesPct": "75%",
+        "yesFloat":"0.7508306",
+        "parent": "Are.they.the.right.sponsor.s..to.drive.a.Transformation.program.",
+        "traits": {
+          "Right Sponsor ": "yes",
+          "Understanding of client alternatives": "some client discussion / discussed fully with client",
+          "How well pursuit strategy & solution meets needs ": "Greater than 2.5"
+        }
+      },
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "49",
+        "wtRelative": "0.08506944",
+        "yesNum": "13",
+        "yesPct": "27%",
+        "yesFloat":"0.2653061",
+        "parent": "Are.they.the.right.sponsor.s..to.drive.a.Transformation.program.",
+        "traits": {
+          "Right Sponsor ": "no / maybe",
+          "Understanding of client alternatives": "some client discussion/discussed fully with client",
+          "How well pursuit strategy & solution meets needs ": "Greater than 2.5"
+        }
+      }]
+    },
+    {
+      "name": "",
+      "top": "",
+      "btm": "",
+      "wtAbsolute": "70",
+      "wtRelative": "0.1215278",
+      "yesNum": "0",
+      "yesPct": "0%",
+      "yesFloat":"0.0",
+      "parent": "On.a.scale.of.1..low..to.5..high...how.well.does.our.pursuit.strategy.and.solution.address.the.needs.and.obstacles.of.the.client.",
+      "traits": {
+        "Understanding of client alternatives": "have an educated guess / not sure",
+        "How well pursuit strategy & solution meets needs ": "Less than 2.5"
+      }
+    }]
+  },
+  {
+    "name": "",
+    "top": "",
+    "btm": "",
+    "wtAbsolute": "156",
+    "wtRelative": "0.2708333",
+    "yesNum": "0",
+    "yesPct": "0%",
+    "yesFloat":"0.0",
+    "parent": "How.well.do.we.understand.the.client.s.alternatives.to.Transformation.",
+    "traits": {
+      "Understanding of client alternatives": "have an educated guess / not sure"
+    }
+  }]
+}, [" in ", " deals with the following traits advanced ", " out of all ", " deals advanced "]]

@@ -1,0 +1,247 @@
+[{
+  "name": "Areas reporting to sponsor ",
+  "top": "",
+  "btm": "",
+  "topList": [""],
+  "btmList": [""],
+  "wtAbsolute": "800",
+  "wtRelative": "1",
+  "yesNum": "238",
+  "yesPct": "30%",
+  "yesFloat":"0.2975",
+  "parent": "null",
+  "traits": "",
+  "children": [
+  {
+    "name": "Understanding of client alternatives",
+    "top": "",
+    "btm": "",
+    "topList": [""],
+    "btmList": [""],
+    "wtAbsolute": "383",
+    "wtRelative": "0.47875",
+    "yesNum": "195",
+    "yesPct": "51%",
+    "yesFloat":"0.5091384",
+    "parent": "Which.of.the.following.areas.report.directly.to.our.sponsor.",
+    "traits": {
+      "Areas reporting to sponsor ": "applications"
+    },
+    "children": [
+    {
+      "name": "How well pursuit strategy & solution meets needs ",
+      "top": "greater than 2.5",
+      "btm": "less than 2.5",
+      "topList": ["greater than 2.5"],
+      "btmList": ["less than 2.5"],
+      "wtAbsolute": "187",
+      "wtRelative": "0.23375",
+      "yesNum": "140",
+      "yesPct": "75%",
+      "yesFloat":"0.7486631",
+      "parent": "How.well.do.we.understand.the.client.s.alternatives.to.Transformation.",
+      "traits": {
+        "Understanding of client alternatives": "discussed fully with client",
+        "Areas reporting to sponsor ": "applications"
+      },
+      "children": [
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "163",
+        "wtRelative": "0.20375",
+        "yesNum": "133",
+        "yesPct": "82%",
+        "yesFloat":"0.8159509",
+        "parent": "On.a.scale.of.1..low..to.5..high...how.well.does.our.pursuit.strategy.and.solution.address.the.needs.and.obstacles.of.the.client.",
+        "traits": {
+          "Understanding of client alternatives": "discussed fully with client",
+          "Areas reporting to sponsor ": "applications",
+          "How well pursuit strategy & solution meets needs ": "Greater than 2.5"
+        }
+      },
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "24",
+        "wtRelative": "0.03",
+        "yesNum": "7",
+        "yesPct": "29%",
+        "yesFloat":"0.2916667",
+        "parent": "On.a.scale.of.1..low..to.5..high...how.well.does.our.pursuit.strategy.and.solution.address.the.needs.and.obstacles.of.the.client.",
+        "traits": {
+          "Understanding of client alternatives": "discussed fully with client",
+          "Areas reporting to sponsor ": "applications",
+          "How well pursuit strategy & solution meets needs ": "Less than 2.5"
+        }
+      }]
+    },
+    {
+      "name": "Understanding of client alternatives",
+      "top": "",
+      "btm": "",
+      "topList": [""],
+      "btmList": [""],
+      "wtAbsolute": "196",
+      "wtRelative": "0.245",
+      "yesNum": "55",
+      "yesPct": "28%",
+      "yesFloat":"0.2806122",
+      "parent": "How.well.do.we.understand.the.client.s.alternatives.to.Transformation.",
+      "traits": {
+        "Understanding of client alternatives": "have an educated guess",
+        "Areas reporting to sponsor ": "applications"
+      },
+      "children": [
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "157",
+        "wtRelative": "0.19625",
+        "yesNum": "55",
+        "yesPct": "35%",
+        "yesFloat":"0.3503185",
+        "parent": "How.well.do.we.understand.the.client.s.alternatives.to.Transformation.",
+        "traits": {
+          "Understanding of client alternatives": "have an educated guess / some client discussion",
+          "Areas reporting to sponsor ": "applications"
+        }
+      },
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "39",
+        "wtRelative": "0.04875",
+        "yesNum": "0",
+        "yesPct": "0%",
+        "yesFloat":"0.0",
+        "parent": "How.well.do.we.understand.the.client.s.alternatives.to.Transformation.",
+        "traits": {
+          "Understanding of client alternatives": "have an educated guess / not sure",
+          "Areas reporting to sponsor ": "applications"
+        }
+      }]
+    }]
+  },
+  {
+    "name": "Understanding of client alternatives",
+    "top": "",
+    "btm": "",
+    "topList": [""],
+    "btmList": [""],
+    "wtAbsolute": "417",
+    "wtRelative": "0.52125",
+    "yesNum": "43",
+    "yesPct": "10%",
+    "yesFloat":"0.1031175",
+    "parent": "Which.of.the.following.areas.report.directly.to.our.sponsor.",
+    "traits": {
+      "Areas reporting to sponsor ": "development operations"
+    },
+    "children": [
+    {
+      "name": "Right Sponsor ",
+      "top": "",
+      "btm": "",
+      "topList": [""],
+      "btmList": [""],
+      "wtAbsolute": "119",
+      "wtRelative": "0.14875",
+      "yesNum": "31",
+      "yesPct": "26%",
+      "yesFloat":"0.2605042",
+      "parent": "How.well.do.we.understand.the.client.s.alternatives.to.Transformation.",
+      "traits": {
+        "Understanding of client alternatives": "have an educated guess",
+        "Areas reporting to sponsor ": "development opterations"
+      },
+      "children": [
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "84",
+        "wtRelative": "0.105",
+        "yesNum": "30",
+        "yesPct": "36%",
+        "yesFloat":"0.3571429",
+        "parent": "Are.they.the.right.sponsor.s..to.drive.a.Transformation.program.",
+        "traits": {
+          "Right Sponsor ": "",
+          "Understanding of client alternatives": "have an educated guess",
+          "Areas reporting to sponsor ": "development operations"
+        }
+      },
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "35",
+        "wtRelative": "0.04375",
+        "yesNum": "1",
+        "yesPct": "3%",
+        "yesFloat":"0.02857143",
+        "parent": "Are.they.the.right.sponsor.s..to.drive.a.Transformation.program.",
+        "traits": {
+          "Right Sponsor ": "yes",
+          "Understanding of client alternatives": "have an educated guess",
+          "Areas reporting to sponsor ": "development operations"
+        }
+      }]
+    },
+    {
+      "name": "How well pursuit strategy & solution meets needs ",
+      "top": "greater than 2.5",
+      "btm": "less than 2.5",
+      "topList": ["greater than 2.5"],
+      "btmList": ["less than 2.5"],
+      "wtAbsolute": "298",
+      "wtRelative": "0.3725",
+      "yesNum": "12",
+      "yesPct": "4%",
+      "yesFloat":"0.04026846",
+      "parent": "How.well.do.we.understand.the.client.s.alternatives.to.Transformation.",
+      "traits": {
+        "Understanding of client alternatives": "not sure",
+        "Areas reporting to sponsor ": "development operations"
+      },
+      "children": [
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "176",
+        "wtRelative": "0.22",
+        "yesNum": "12",
+        "yesPct": "7%",
+        "yesFloat":"0.06818182",
+        "parent": "On.a.scale.of.1..low..to.5..high...how.well.does.our.pursuit.strategy.and.solution.address.the.needs.and.obstacles.of.the.client.",
+        "traits": {
+          "Understanding of client alternatives": "not sure",
+          "Areas reporting to sponsor ": "development operations",
+          "How well pursuit strategy & solution meets needs ": "Greater than 2.5"
+        }
+      },
+      {
+        "name": "",
+        "top": "",
+        "btm": "",
+        "wtAbsolute": "122",
+        "wtRelative": "0.1525",
+        "yesNum": "0",
+        "yesPct": "0%",
+        "yesFloat":"0.0",
+        "parent": "On.a.scale.of.1..low..to.5..high...how.well.does.our.pursuit.strategy.and.solution.address.the.needs.and.obstacles.of.the.client.",
+        "traits": {
+          "Understanding of client alternatives": "not sure",
+          "Areas reporting to sponsor ": "development operations",
+          "How well pursuit strategy & solution meets needs ": "Less than 2.5"
+        }
+      }]
+    }]
+  }]
+}, [" in ", " deals with the following traits advanced ", " out of all ", " deals advanced "]]

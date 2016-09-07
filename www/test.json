@@ -1,0 +1,109 @@
+[{
+  "name": "ELA in next 12 months ",
+  "top": "",
+  "btm": "",
+  "topList": [""],
+  "btmList": [""],
+  "wtAbsolute": "201",
+  "wtRelative": "1",
+  "yesNum": "66",
+  "yesPct": "33%",
+  "yesFloat":"0.3283582",
+  "parent": "null",
+  "traits": "",
+  "children": [
+  {
+    "name": "Sponsor's title ",
+    "top": "",
+    "btm": "",
+    "topList": [""],
+    "btmList": [""],
+    "wtAbsolute": "93",
+    "wtRelative": "0.4626866",
+    "yesNum": "54",
+    "yesPct": "58%",
+    "yesFloat":"0.5806452",
+    "parent": "Within.the.next.12.months..are.there.significant.ELA.renewals.in.play.for.this.pursuit.",
+    "traits": {
+      "ELA in next 12 months ": "yes"
+    },
+    "children": [
+    {
+      "name": "",
+      "top": "",
+      "btm": "",
+      "wtAbsolute": "52",
+      "wtRelative": "0.2587065",
+      "yesNum": "41",
+      "yesPct": "79%",
+      "yesFloat":"0.7884615",
+      "parent": "What.is.our.sponsor.s.title.",
+      "traits": {
+        "Sponsor's title ": "CIO/CTO",
+        "ELA in next 12 months ": "yes"
+      }
+    },
+    {
+      "name": "",
+      "top": "",
+      "btm": "",
+      "wtAbsolute": "41",
+      "wtRelative": "0.2039801",
+      "yesNum": "13",
+      "yesPct": "32%",
+      "yesFloat":"0.3170732",
+      "parent": "What.is.our.sponsor.s.title.",
+      "traits": {
+        "Sponsor's title ": "Direct of CIO/CTO",
+        "ELA in next 12 months ": "yes"
+      }
+    }]
+  },
+  {
+    "name": "Misalignment concerns ",
+    "top": "",
+    "btm": "",
+    "topList": [""],
+    "btmList": [""],
+    "wtAbsolute": "108",
+    "wtRelative": "0.5373134",
+    "yesNum": "12",
+    "yesPct": "11%",
+    "yesFloat":"0.1111111",
+    "parent": "Within.the.next.12.months..are.there.significant.ELA.renewals.in.play.for.this.pursuit.",
+    "traits": {
+      "ELA in next 12 months ": "no"
+    },
+    "children": [
+    {
+      "name": "",
+      "top": "",
+      "btm": "",
+      "wtAbsolute": "47",
+      "wtRelative": "0.2338308",
+      "yesNum": "0",
+      "yesPct": "0%",
+      "yesFloat":"0.0",
+      "parent": "Does.anything.stand.out.as.something.which.will.lead.to.large.areas.of.misalignment.between.Federation.and.individual.account.team.objectives.",
+      "traits": {
+        "Misalignment concerns ": "yes",
+        "ELA in next 12 months ": "no"
+      }
+    },
+    {
+      "name": "",
+      "top": "",
+      "btm": "",
+      "wtAbsolute": "61",
+      "wtRelative": "0.3034826",
+      "yesNum": "12",
+      "yesPct": "20%",
+      "yesFloat":"0.1967213",
+      "parent": "Does.anything.stand.out.as.something.which.will.lead.to.large.areas.of.misalignment.between.Federation.and.individual.account.team.objectives.",
+      "traits": {
+        "Misalignment concerns ": "no",
+        "ELA in next 12 months ": "no"
+      }
+    }]
+  }]
+}, [" in ", " deals with the following traits advanced ", " out of all ", " deals advanced "]]
